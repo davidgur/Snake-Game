@@ -35,6 +35,7 @@ Navigate to the folder where all the game information is stored in CMD or Termin
 **Unix:**
 
 `python game.py`
+
 **If you have both python2 and python3 installed, run**
 
 `python3 game.py`
