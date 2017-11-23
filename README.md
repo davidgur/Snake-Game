@@ -13,11 +13,13 @@ TODO: ADD MARK THAT I GOT FOR THIS PROJECT
 ## Prerequisites
 This game runs off of a Python Library called PyGame, and the installation of PyGame is required.
 
-To install PyGame on a unix based system (does not include Mac):
-'python3 -m pip install pygame --user'
+**To install PyGame on a unix based system (does not include Mac):**
 
-To install PyGame on a Windows system:
-'py -m pip install pygame --user'
+`python3 -m pip install pygame --user`
+
+**To install PyGame on a Windows system:**
+
+`py -m pip install pygame --user`
 
 To install on a Mac or anywhere else, I suggest you Google it.
 
@@ -26,15 +28,20 @@ Right well this is easy.
 
 Navigate to the folder where all the game information is stored in CMD or Terminal and enter the following command:
 
-On Windows:
-'game.py'
+**On Windows:**
 
-Unix:
-'python game.py'
-*If you have both python2 and python3 installed, run
-'python3 game.py'
+`game.py`
+
+**Unix:**
+
+`python game.py`
+**If you have both python2 and python3 installed, run**
+
+`python3 game.py`
 
 ## Built With
-[PyGame](http://www.pygame.org/news) - The Python Library I used
-[JetBrain PyCharm CE](https://www.jetbrains.com/pycharm/) - The IDE I used. Highly recommended as opposed to the regular shell.
-[Python 3](https://www.python.org/downloads/) - Duh.
+* [PyGame](http://www.pygame.org/news) - The Python Library I used
+
+* [JetBrain PyCharm CE](https://www.jetbrains.com/pycharm/) - The IDE I used. Highly recommended as opposed to the regular shell.
+
+* [Python 3](https://www.python.org/downloads/) - Duh.
