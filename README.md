@@ -8,7 +8,7 @@ time of writing this game, we did not learn.
 
 Anyway, this is my first real Python program that uses classes.
 
-TODO: ADD MARK THAT I GOT FOR THIS PROJECT
+I ended up getting 100% on this project.
 
 ## Prerequisites
 This game runs off of a Python Library called PyGame, and the installation of PyGame is required.
